@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: test_algorithms_morphing
+Version: 0.1
+Summary: A package for testing algorithm morphing
+Home-page: https://github.com/yourusername/test_algorithms_morphing
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: tqdm
+Requires-Dist: matplotlib
+
+# test_algorithms_morphing
+
+A package for testing algorithm morphing with various classifiers.
